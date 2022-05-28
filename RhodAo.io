@@ -1,4 +1,4 @@
-name: Deploy to web
+name: Deploy to web[![Deploy to web](https://github.com/flutter/gallery/actions/workflows/release_deploy_web.yml/badge.svg?branch=build_web&event=page_build)](https://github.com/flutter/gallery/actions/workflows/release_deploy_web.yml)
 on:
   # Enable manual run
   workflow_dispatch:
